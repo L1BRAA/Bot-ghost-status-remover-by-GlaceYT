@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Assistindo um tal de Tutasu :3","Jogando Caneta azul simulator","Use >>help,","Tenho berde dizer mas o L1BRA é muito bonito 😳","Vejo um futuro brilhante pela frente :D"];
 
 
 let currentIndex = 0;
